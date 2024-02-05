@@ -29,7 +29,7 @@
         "fields": {
           "title": "twin panel bed",
           "price": 22.99,
-          "image": { "fields": { "file": { "url": "/product-4.jpeg" } } }
+          "image": { "fields": { "file": { "url": "./product-4.jpeg" } } }
         }
       },
       {
