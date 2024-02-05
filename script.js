@@ -20,7 +20,7 @@ let btnsDom = [];
 class Products {
     getProducts = async () => {
         try {
-            let response = await fetch('/product.json');
+            let response = await fetch('product.json');
             let data = await response.json();
 
             let myProducts = data.items;
